@@ -3,5 +3,45 @@
         "name": "Snow Rider",
         "slug": "snow-rider",
         "image": "/cache/data/image/game/snow-rider/snow-rider-3d-m186x186.webp"
+    },
+    {
+        "name": "Slope",
+        "slug": "slope",
+        "image": "/cache/data/image/game/slope/slope-m186x186.webp"
+    },
+    {
+        "name": "Jelly Hop",
+        "slug": "jelly-hop",
+        "image": "/cache/data/image/game/jelly-hop/jelly-hop-m186x186.webp"
+    },
+    {
+        "name": "Tunnel Ball",
+        "slug": "tunnel-ball",
+        "image": "/cache/data/image/game/tunnel-ball/tunnel-ball-m186x186.webp"
+    },
+    {
+        "name": "Shooter Sky",
+        "slug": "shooter-sky",
+        "image": "/cache/data/image/game/shooter-sky/shooter-sky-m186x186.webp"
+    },
+    {
+        "name": "Tube Fall",
+        "slug": "tube-fall",
+        "image": "/cache/data/image/game/tube-fall/tube-fall-m186x186.webp"
+    },
+    {
+        "name": "Snow Drift",
+        "slug": "snow-drift",
+        "image": "/cache/data/image/game/snow-drift/snow-drift-m186x186.webp"
+    },
+    {
+        "name": "Power Surfer",
+        "slug": "power-surfer",
+        "image": "/cache/data/image/game/power-surfer/power-surfer-m186x186.webp"
+    },
+    {
+        "name": "Snow Rider 3D Nostalgia",
+        "slug": "snow-rider-3d-nostalgia",
+        "image": "/cache/data/image/game/snow-rider-3d-nostalgia/snow-rider-3d-nostalgia-m186x186.webp"
     }
 ]
